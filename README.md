@@ -111,4 +111,4 @@ The primary change in this version is that the setup and usage is formatted with
 1.  **Replace Content:** Update your `README.md` file content with this updated code.
 2.  **Customization**: Do not forget to replace `your_repository_url` and `project_directory_name` with the correct values.
 
-With this, your `README.md` should now contain all the necessary details formatted as requested. This should give a clear and structured view of all the information for your application.
+With these changes, the `README.md` file should be clear about the absence of `node_modules` and how to download dependencies.
